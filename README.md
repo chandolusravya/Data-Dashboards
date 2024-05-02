@@ -2,7 +2,7 @@
 Developing Sales Dashboard and HR-Attrition Dashboard using Microsoft Power Bi, Python, Microsoft Excel
 
 
-1. Sales Dashboard:
+**1. Sales Dashboard:**
    
 **Purpose**
 
@@ -33,3 +33,28 @@ Top-selling product - AAA Batteries (31K)
 Best Sales in a month - December(4613K)
 
 Top Product By Sales Count - Iphone (6.8K)
+
+**2. HR-Attrition Dashboard:**
+   
+**Data Cleanup :**
+ - Removing redundancy
+ - Eliminating duplicates
+ - Venturing into advanced data transformations
+ - Using DAX function.
+ - Used data groups. By using groups, we can aggregate certain values together to form meaningful subsets.
+
+🎯 **Project Insights:**
+1. Total number of employees is 1,470 with active employees count 1,233 and attrition count 237.
+2. Male attrition count is 150 and female attrition count is 87.
+3. Maximum attrition is from age group 31-45 (count – 103).
+4. Maximum attrition by work life balance is in category with rating “Good” (count – 127).
+5. Maximum attrition by education field is in “Life Sciences” (count – 89).
+6. Maximum attrition by distance from home is of those who are near to office (count – 144).
+7. Average working years is “11.28”.
+8. Maximum attrition by business travel is of male employees (count – 102).
+9. Maximum attrition by department is in Research & Development Department (count – 133).
+10. Average hourly rate is $65.89.
+11. Average monthly income is 6.50k.
+12. Maximum attrition by Performance Rating is in category with rating “Low” (count – 200).
+13. Maximum attrition by Work Life Balance is in category with rating “Good” (count – 127).
+14. Maximum attrition by Job satisfaction is in “Satisfied” category (count – 73).
